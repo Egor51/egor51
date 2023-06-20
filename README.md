@@ -11,8 +11,6 @@
 
 - :seedling: Мое <a href= "https://spb.hh.ru/resume/8489b52fff0b203a6b0039ed1f517963446d6a"> резюме hh.ru</a>
 
-- :zap: Хочу освоить новую проффесию и найти интересную работу.
-
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-EgorKubrakov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/egor_018) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:egorkubrakov87@gmail.com)
 
 ---
