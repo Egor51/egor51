@@ -9,7 +9,7 @@
 
 - :page_facing_up: Мое <a href= "https://spb.hh.ru/resume/d1fabb6fff0c1e10b40039ed1f754868766544"> резюме hh.ru</a>
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-EgorKubrakov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/egor_018) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:egorkubrakov87@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-EgorKubrakov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/egor_018) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:egorkubrakov87@gmail.com) [![linkedin Badge](https://img.shields.io/badge/-EgorKubrakov-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/egor-kubrakov-301799281)
 
 ---
 
