@@ -7,7 +7,7 @@
 Я Java разработчик, мой путь в IT начался в январе 2022 года. Увлечение программированием и стремление к созданию высококачественного программного обеспечения стали моими основными мотиваторами в этой области. 
 
 
-- :page_facing_up: Мое <a href= "https://spb.hh.ru/resume/8489b52fff0b203a6b0039ed1f517963446d6a"> резюме hh.ru</a>
+- :page_facing_up: Мое <a href= "https://spb.hh.ru/resume/d1fabb6fff0c1e10b40039ed1f754868766544"> резюме hh.ru</a>
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-EgorKubrakov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/egor_018) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:egorkubrakov87@gmail.com)
 
