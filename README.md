@@ -85,7 +85,7 @@
 | ----------------------------------------------------------------| :---------------: | -------------|
 | netology.ru/Java разработсчик с нуля                            | 01/2022 - 02/2023 | <a href= "https://netology.ru/backend/api/user/programs/25318/pdf_certificate"> диплом </a>
 | ----------------------------------------------------------------| :---------------: | -------------|
-| javaops.ru/TopJava/Enterprise Java-разработчик                  | 05/2023 - 08/2023 | <a href= "[https://netology.ru/backend/api/user/programs/25318/pdf_certificate](https://javaops.ru/certificate/topjava?email=kubrakov_egor87@mail.ru)"> диплом </a>
+| javaops.ru/TopJava/Enterprise Java-разработчик                  | 05/2023 - 08/2023 | <a href= "https://netology.ru/backend/api/user/programs/25318/pdf_certificate](https://javaops.ru/certificate/topjava?email=kubrakov_egor87@mail.ru"> диплом </a>
 | ----------------------------------------------------------------| :---------------: | -------------|
                  
 
