@@ -93,7 +93,7 @@
 
 ### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/egor51/badges) 
+![codewars]([https://www.codewars.com/users/egor51/badges](https://www.codewars.com/users/Egor51/badges/large)) 
 
 ### ⚙️ GitHub статистика:
 
