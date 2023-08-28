@@ -91,9 +91,9 @@
 
 ---
 
-<!-- ### 💻 Codewars:
+### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/egor51/badges) -->
+![codewars](https://www.codewars.com/users/egor51/badges) 
 
 ### ⚙️ GitHub статистика:
 
