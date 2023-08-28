@@ -83,9 +83,9 @@
 
 | Курсы                                                           | Дата              | Диплом       |
 | ----------------------------------------------------------------| :---------------: | -------------|
-| netology.ru/Java разработсчик с нуля                            | 01/2022 - 02/2023 | <a href= "https://netology.ru/backend/api/user/programs/25318/pdf_certificate"> диплом </a>
+| netology.ru - Java разработсчик с нуля                            | 01/2022 - 02/2023 | <a href= "https://netology.ru/backend/api/user/programs/25318/pdf_certificate"> диплом </a>
 | ----------------------------------------------------------------| :---------------: | -------------|
-| javaops.ru/TopJava/Enterprise Java-разработчик                  | 05/2023 - 08/2023 | <a href= "https://www.dropbox.com/scl/fi/x6gvoeib27noiwogk8bs5/.png?rlkey=iglwrngl6acffkknvpuii1hpc&dl=0"> диплом </a>
+| Java Online Projects - TopJava/Enterprise Java-разработчик        | 05/2023 - 08/2023 | <a href= "https://www.dropbox.com/scl/fi/x6gvoeib27noiwogk8bs5/.png?rlkey=iglwrngl6acffkknvpuii1hpc&dl=0"> диплом </a>
 | ----------------------------------------------------------------| :---------------: | -------------|
                  
 
