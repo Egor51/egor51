@@ -49,7 +49,7 @@
 <a href="https://github.com/Egor51/task-management">Task Management System<a><br>
 Разработка REST API для системы управления задачами на основе Spring Boot. Система поддерживает создание, редактирование, удаление и просмотр задач, а также аутентификацию и авторизацию пользователей через JWT. Реализована ролевая модель (администратор и пользователь), защита API и мониторинг состояния системы.
 
-<a href="https://github.com/Egor51/task-management](https://github.com/Egor51/mail-service">Email Service<a><br>
+<a href="https://github.com/Egor51/mail-service">Email Service<a><br>
 Разработка асинхронного микросервиса для отправки email-сообщений с использованием Spring Boot, RabbitMQ и SMTP. Он поддерживает различные типы писем (регистрационные, восстановление пароля, рекламные рассылки) и обеспечивает горизонтальное масштабирование через Docker Swarm и Kubernetes. Используемые технологии: Java 21, Spring Boot 3.2.3, Spring Mail, RabbitMQ, Eureka, Spring AMQP, Docker, Kubernetes, Lombok, SpringDoc OpenAPI.
 
 ---
