@@ -1,121 +1,147 @@
-# 👋 Привет! Я — Egor 
+# 👋 Привет! Я — Egor
 
-Fullstack-разработчик.  
-Создаю современные web-приложения, игровые механики, серверы реального времени и интеграции с блокчейном.
+Java Backend / Fullstack-разработчик.  
+Разрабатываю web-сервисы, REST API, CRM-модули, Telegram-боты, интеграции и внутренние инструменты для бизнеса.
 
----
-
-## 🧑‍💻 Кто я?
-
-- Fullstack Developer с сильным уклоном в **backend + архитектуру**  
-- Разработчик игр с упором на **экономические симуляции**  
-- Web3-инженер: NFT, токены, TON, on-chain/off-chain логика  
-- Умею построить проект **от серверной логики до красивого фронтенда**
+Основной фокус: **Java, Spring Boot, PostgreSQL, REST API, Docker, React / Next.js**.
 
 ---
 
-## 🧠 Стек технологий
+## 🧑‍💻 О себе
 
-### 🟦 Backend (основная специализация)
+- Java / Fullstack-разработчик с практическим опытом проектной разработки для малого бизнеса
+- Работаю с backend-архитектурой, REST API, базами данных, DTO, JPA/Hibernate и интеграцией с frontend
+- Разрабатываю решения полного цикла: от обсуждения требований и проектирования API/БД до реализации, деплоя и поддержки
+- Имею frontend-бэкграунд на React / Next.js / TypeScript, поэтому хорошо понимаю взаимодействие backend и frontend
+- В рамках MyTraffic / ИП занимаюсь цифровыми решениями для бизнеса: web-сервисы, CRM-модули, Telegram-боты, интеграции и автоматизация процессов
+
+---
+
+## 🧠 Основной стек
+
+### Backend
+
 - Java 17+
-- Spring Boot, Spring MVC, Spring Security, WebSocket
-- JPA/Hibernate, PostgreSQL, Redis
-- CI/CD, Docker, GitHub Actions
-- Архитектура: DDD, многослойность, микросервисы, real-time модели
+- Spring Boot
+- Spring MVC
+- Spring Data JPA
+- Hibernate
+- REST API
+- Bean Validation
+- Spring Security / JWT basics
+- JUnit / Mockito basics
 
-### 🟩 Frontend (fullstack)
-- JavaScript / TypeScript  
-- React 18  
-- Next.js  
-- Zustand / Redux  
-- Mobile UI / Telegram Mini App UI  
-- SSR/SSG, API Routes, WebSocket-клиенты
+### Databases
 
-### 🟪 Web3 / Blockchain
-- TON Blockchain  
-- NFT/Jettons  
-- Smart-контракты  
-- Off-chain → On-chain интеграции  
-- Безопасность, подписи, подтверждения транзакций
+- PostgreSQL
+- SQL / JPQL
+- JPA relationships
+- Indexes
+- DTO projections
+- Pagination
+- Basic query optimization
+
+### DevOps / Infrastructure
+
+- Docker
+- Docker Compose
+- Nginx
+- Linux servers
+- Git / GitHub
+- Maven
+- Basic CI/CD
+- Let’s Encrypt / SSL setup
+
+### Frontend
+
+- JavaScript / TypeScript
+- React
+- Next.js
+- HTML / CSS
+- REST API integration
+- Admin panels / dashboards
+- Telegram WebApp UI
+
+### Дополнительно изучаю
+
+- Kafka / RabbitMQ basics
+- Redis
+- Microservices patterns
+- Spring Security deeper
+- Testcontainers
+- JVM profiling basics
 
 ---
 
-## 📈 Моя сильная сторона  
-Я умею делать **полные end-to-end продукты**:
-
-- дизайн экономики →  
-- архитектура →  
-- backend API →  
-- фронт →  
-- интеграция Web3 →  
-- документация →  
-- запуск продукта  
-
----
-
-## 📚 Образование и опыт
-
-- Высшее техническое  
-- 5+ лет в IT/разработке  
-- Много реальных проектов в коммерции, фрилансе и самостоятельной разработке  
-- Опыт ведения проектов «в одиночку» — архитектура, код, инфраструктура, механики
-
----
-
-## 🔥 Мои проекты
+## 🔥 Проекты
 
 ### 📄 OKDOCS.io — Document Converter & PDF Tools
-Онлайн-платформа для конвертации документов и работы с PDF.
 
-- PDF merge, split, compress, edit
-- Конвертация DOCX, XLSX, PPTX, HTML
-- Image → PDF и image compression
-- Современный web-интерфейс
-- Next.js 14 + TypeScript
+Онлайн-сервис для работы с документами и PDF-инструментами.
+
+- Конвертация документов
+- PDF compress / merge / split
+- Загрузка файлов и получение результата через web-интерфейс
+- REST API для запуска операций и получения статусов задач
+- Docker / Nginx окружение для деплоя
+
+**Стек:** Java / Spring Boot, REST API, PostgreSQL, Docker, Next.js, TypeScript
 
 🔗 Live: https://okdocs.io  
 📦 Repo: https://github.com/Egor51/okdocs
 
+---
 
-### 🏙 Capital Game (главный проект)
-- Telegram Mini App  
-- Реальная экономика  
-- WebSocket-сервер  
-- TON-токены + NFT  
-- Полноценная внутриигровая валюта  
-- Все механики: аренда, кредиты, рынок, события
-  
-### 🧮 BuildCalc — Construction Calculators
-- Онлайн-сервис строительных калькуляторов для точного расчёта материалов.
-- Расчёт бетона, краски, плитки, полов и др.
-- Примеры и руководства по расчётам
-- Поддержка EN / RU
-- Фокус на точность, UX и производительность
-- Fullstack-реализация
-  
-🔗 Live: https://buildcalc.online
-📦 Repository: https://github.com/Egor51/BuildCalc
+### 🛡 Web Control — сервис проверки сайтов
 
-### 🔧 Backend-микросервисы / REST-API проекты  
-- Авторизация  
-- Платёжные модули  
-- Админ-панели  
-- API-шлюзы  
-- Хранилища данных
+Сервис для анализа сайтов и формирования отчётов по найденным проблемам.
 
-### 🖥 Frontend проекты
-- React-приложения  
-- Next.js-админки  
-- Панели управления  
-- Личные кабинеты и дашборды  
-- Telegram WebApp UI  
+- Запуск проверки сайта
+- Хранение результатов сканирования
+- Статусы задач
+- Формирование отчёта
+- Frontend-интерфейс для пользователя
+
+**Стек:** Java / Spring Boot, REST API, PostgreSQL, Docker, Next.js, TypeScript
+
+🔗 Live: https://web.okdocs.io
+
+---
+
+### 🧩 CRM / внутренние инструменты для бизнеса
+
+Проектные решения для малого бизнеса:
+
+- CRM-модули
+- обработка заявок
+- статусы и история действий
+- Telegram-боты
+- интеграции с внешними сервисами
+- admin-панели и dashboard-интерфейсы
+
+**Стек:** Java / Spring Boot, PostgreSQL, REST API, React / Next.js, Docker
+
+---
+
+## 📌 Что я сейчас развиваю
+
+Сейчас основной фокус — усиление Java Backend-навыков:
+
+- Spring Boot
+- JPA / Hibernate
+- SQL / PostgreSQL
+- Spring Security / JWT
+- REST API design
+- Unit / integration testing
+- Kafka / RabbitMQ basics
+- Docker / CI/CD
 
 ---
 
 ## 📫 Контакты
 
-- Telegram: **@Egor_018**  
-- Email: **egorkubrakov87@gmail.com**  
+- Telegram: **@Egor_018**
+- Email: **egorkubrakov87@gmail.com**
 - GitHub: [github.com/Egor51](https://github.com/Egor51)
 
 ---
