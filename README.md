@@ -62,7 +62,7 @@ Java Backend / Fullstack-разработчик.
 - Admin panels / dashboards
 - Telegram WebApp UI
 
-### Дополнительно изучаю
+### Дополнительно
 
 - Kafka / RabbitMQ basics
 - Redis
